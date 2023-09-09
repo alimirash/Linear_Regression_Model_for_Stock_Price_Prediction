@@ -12,7 +12,7 @@ This repository contains a Python script for a linear regression model used to p
 ## Dataset
 
 The dataset used in this project is sourced from the following URL:
-[EURUSD_M1.csv](/content/sample_data/EURUSD_M1.csv)
+[EURUSD_M1.csv](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction/blob/041953ceed62ef291554e47c3cd6acd628109b26/EURUSD_M1.csv)
 
 The dataset includes the following columns:
 - Date
