@@ -35,3 +35,19 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
+
+## Results
+
+The model predictions are plotted against the actual closing prices, providing visual insights into the prediction accuracy.
+
+### Plot 1: Historical Data for All Available Data Points
+
+To provide a comprehensive view of the historical data, the following plot shows the entire dataset's historical closing prices. This can help you understand the broader trends in the data.
+
+![Historical Data for All Available Data Points](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction/blob/d48a3f06bb087112a8dafc7a928cd1c0fb36a68b/Plots/History.png)
+### Plot 2: Close Prices in EURUSD
+
+This plot displays the close prices in EURUSD, including the last 200 data points.
+
+![Close Prices in EURUSD](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction/blob/d48a3f06bb087112a8dafc7a928cd1c0fb36a68b/Plots/LinearRegression_Result.png)
