@@ -1,9 +1,9 @@
 # Linear Regression Model for Stock Price Prediction
 
-![GitHub repo size](https://img.shields.io/github/repo-size/alimirash/[YourRepository](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction))
-![GitHub contributors](https://img.shields.io/github/contributors/alimirash/[YourRepository](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction))
-![GitHub stars](https://img.shields.io/github/stars/alimirash/[YourRepository](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction)?style=social)
-![GitHub forks](https://img.shields.io/github/forks/alimirash/[YourRepository](https://github.com/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction)?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction)
+![GitHub contributors](https://img.shields.io/github/contributors/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction)
+![GitHub stars](https://img.shields.io/github/stars/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alimirash/Linear_Regression_Model_for_Stock_Price_Prediction?style=social)
 
 ## Overview
 
